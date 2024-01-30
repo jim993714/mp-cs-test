@@ -1,0 +1,3 @@
+[submodule "src/pages/shop"]
+	path = src/pages/shop
+	url = https://github.com/jim993714/zsdx-mp-shop.git
