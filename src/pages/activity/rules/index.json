@@ -1,0 +1,7 @@
+{
+    "path": "pages/activity/pk-zone/rules/index",
+    "pageName": "activityRules",
+    "style": {
+        "navigationBarTitleText": "活动规则"
+    }
+}

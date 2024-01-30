@@ -1,0 +1,11 @@
+{
+    "path": "pages/activity/discount-area/index",
+    "pageName": "discountArea",
+    "style": {
+        "enablePullDownRefresh": true,
+        "navigationStyle": "custom",
+        "navigationBarTextStyle":"white" ,
+        "navigationBarTitleText": "折扣专区"
+
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "pageName": "studentAuth",
+    "auth": true,
+    "style": {
+        "navigationBarTitleText": "学生认证",
+        "navigationStyle": "custom"
+    }
+}

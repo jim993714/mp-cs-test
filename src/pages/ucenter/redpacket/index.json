@@ -1,0 +1,7 @@
+{
+    "pageName": "redpacket",
+    "auth": true,
+    "style": {
+        "navigationBarTitleText": "红包卡券"
+    }
+}

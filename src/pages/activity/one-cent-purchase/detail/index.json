@@ -1,0 +1,7 @@
+{
+    "pageName": "oneCentPurchaseDetail",
+    "style": {
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": true
+    }
+}

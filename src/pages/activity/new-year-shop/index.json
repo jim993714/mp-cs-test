@@ -1,0 +1,8 @@
+{
+    "pageName": "newYearShop",
+    "style": {
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": true,
+        "navigationBarTextStyle":"white"
+    }
+}

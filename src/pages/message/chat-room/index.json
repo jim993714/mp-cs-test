@@ -1,0 +1,9 @@
+{
+    "path": "pages/message/chat-room/index",
+    "pageName": "chatRoom",
+    "auth": true,
+    "style": {
+        "navigationBarTitleText": "官方客服",
+        "disableScroll": true
+    }
+}

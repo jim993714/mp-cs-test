@@ -1,0 +1,8 @@
+{
+    "pageName": "browsingHistory",
+    "auth": true,
+    "style": {
+        "navigationBarTitleText": "浏览足迹",
+        "enablePullDownRefresh": true
+    }
+}

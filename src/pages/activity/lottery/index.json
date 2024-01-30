@@ -1,0 +1,7 @@
+{
+    "path": "pages/activity/lottery/index",
+    "pageName": "lottery",
+    "style": {
+        "navigationStyle": "custom"
+    }
+}

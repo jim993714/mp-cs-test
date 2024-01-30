@@ -1,0 +1,9 @@
+{
+    "path": "pages/activity/super-subsidy/index",
+    "pageName": "superSubsidy",
+    "style": {
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": true,
+        "navigationBarTextStyle":"white"
+    }
+}

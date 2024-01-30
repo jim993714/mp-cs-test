@@ -1,0 +1,11 @@
+{
+    "path": "pages/activity/campus-group/index",
+    "pageName": "campusGroup",
+    "auth":true,
+    "style": {
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "校园团"
+
+    }
+}

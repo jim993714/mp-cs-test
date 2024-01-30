@@ -1,0 +1,9 @@
+{
+    "path": "pages/activity/new-arrivals/index",
+    "pageName": "newArrivals",
+    "style": {
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": true,
+        "navigationBarTextStyle":"white"
+    }
+}

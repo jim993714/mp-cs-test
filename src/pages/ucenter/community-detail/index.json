@@ -1,0 +1,8 @@
+{
+    "pageName": "communityDetail",
+    "style": {
+        "navigationBarTitleText": "社群红包明细",
+        "navigationStyle": "custom"
+    },
+    "path": "community-detail/index"
+}

@@ -1,0 +1,7 @@
+{
+    "path": "pages/activity/pk-zone/search-result/index",
+    "pageName": "pkZoneSearchResult",
+    "style": {
+        "navigationStyle": "custom"
+    }
+}

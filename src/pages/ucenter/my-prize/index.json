@@ -1,0 +1,8 @@
+{
+    "path": "pages/ucenter/my-prize/index",
+    "pageName": "myPrize",
+    "auth": true,
+    "style": {
+        "navigationBarTitleText": "我的奖品"
+    }
+}

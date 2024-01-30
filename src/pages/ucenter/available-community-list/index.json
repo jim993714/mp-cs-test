@@ -1,0 +1,8 @@
+{
+    "pageName": "availableCommunityList",
+    "style": {
+        "navigationBarTitleText": "社群红包专区",
+        "navigationStyle": "custom"
+    },
+    "path": "available-community-list/index"
+}

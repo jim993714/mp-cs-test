@@ -1,0 +1,8 @@
+{
+    "pageName": "discountCouponGet",
+    "style": {
+        "enablePullDownRefresh": true,
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "领取优惠券"
+    }
+}

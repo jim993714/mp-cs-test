@@ -1,0 +1,8 @@
+{
+    "path": "my-address/index",
+    "pageName": "myAddress",
+    "auth": true,
+    "style": {
+        "navigationBarTitleText": "我的地址"
+    }
+}

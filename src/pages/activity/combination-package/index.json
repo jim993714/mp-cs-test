@@ -1,0 +1,11 @@
+{
+    "path": "pages/activity/combination-package/index",
+    "pageName": "combinationPackage",
+    "style": {
+        "enablePullDownRefresh": true,
+        "navigationStyle": "custom",
+        "navigationBarTextStyle":"white" ,
+        "navigationBarTitleText": "组合包"
+
+    }
+}

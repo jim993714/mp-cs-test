@@ -1,0 +1,8 @@
+{
+    "path": "pages/message/index/index",
+    "pageName": "message",
+    "auth": true,
+    "style": {
+        "navigationBarTitleText": "消息通知"
+    }
+}

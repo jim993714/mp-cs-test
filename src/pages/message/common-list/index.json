@@ -1,0 +1,7 @@
+{
+    "path": "common-list/index",
+    "pageName": "commonList",
+    "style": {
+        "navigationBarTitleText": "交易物流"
+    }
+}

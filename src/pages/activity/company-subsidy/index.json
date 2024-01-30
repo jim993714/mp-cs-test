@@ -1,0 +1,10 @@
+{
+    "path": "pages/activity/company-subsidy/index",
+    "pageName": "companySubsidy",
+    "style": {
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": true,
+        "navigationBarTitleText": "企业补贴专区"
+
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "path": "pages/ucenter/my-collect/index",
+    "pageName": "myCollect",
+    "auth": true,
+    "style": {
+        "navigationBarTitleText": "收藏订阅"
+    }
+}

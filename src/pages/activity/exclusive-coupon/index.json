@@ -1,0 +1,10 @@
+{
+    "path": "pages/activity/exclusive-coupon/index",
+    "pageName": "exclusiveCoupon",
+    "style": {
+        "enablePullDownRefresh": true,
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "领取优惠券"
+
+    }
+}

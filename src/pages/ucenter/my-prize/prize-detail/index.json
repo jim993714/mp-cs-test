@@ -1,0 +1,7 @@
+{
+    "path": "pages/ucenter/my-prize/prize-detail/index",
+    "pageName": "prizeDetail",
+    "style": {
+        "navigationBarTitleText": "奖品详情"
+    }
+}

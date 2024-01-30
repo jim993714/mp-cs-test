@@ -1,0 +1,7 @@
+{
+    "path": "pages/ucenter/my-prize/invalid-prize/index",
+    "pageName": "invalidPrize",
+    "style": {
+        "navigationBarTitleText": "失效奖品"
+    }
+}

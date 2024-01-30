@@ -1,0 +1,7 @@
+{
+    "pageName": "shoppingCashback",
+    "auth": true,
+    "style": {
+        "navigationStyle": "custom"
+    }
+}

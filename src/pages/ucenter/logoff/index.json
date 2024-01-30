@@ -1,0 +1,7 @@
+{
+    "path": "logoff/index",
+    "pageName": "logoff",
+    "style": {
+        "navigationBarTitleText": "账户注销"
+    }
+}

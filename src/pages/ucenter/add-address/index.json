@@ -1,0 +1,7 @@
+{
+    "pageName": "addAddress",
+    "style": {
+        "navigationBarTitleText": "新增收货地址"
+    },
+    "path": "add-address/index"
+}

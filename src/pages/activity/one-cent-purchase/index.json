@@ -1,0 +1,8 @@
+{
+    "pageName": "oneCentPurchase",
+    "style": {
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": true,
+        "navigationBarTextStyle":"white"
+    }
+}

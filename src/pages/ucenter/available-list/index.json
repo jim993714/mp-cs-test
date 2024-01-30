@@ -1,0 +1,7 @@
+{
+    "pageName": "availableList",
+    "style": {
+        "navigationBarTitleText": "使用详情"
+    },
+    "path": "available-list/index"
+}

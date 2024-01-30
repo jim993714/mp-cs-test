@@ -1,0 +1,7 @@
+{
+    "path": "pages/message/report/index",
+    "pageName": "report",
+    "style": {
+        "navigationBarTitleText": "投诉举报"
+    }
+}

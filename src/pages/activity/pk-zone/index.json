@@ -1,0 +1,7 @@
+{
+    "path": "pages/activity/pk-zone/index",
+    "pageName": "pkZone",
+    "style": {
+        "navigationStyle": "custom"
+    }
+}

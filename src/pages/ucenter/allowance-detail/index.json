@@ -1,0 +1,8 @@
+{
+    "pageName": "allowanceDetail",
+    "style": {
+        "navigationBarTitleText": "购物津贴明细",
+        "navigationStyle": "custom"
+    },
+    "path": "allowance-detail/index"
+}

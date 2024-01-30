@@ -1,0 +1,8 @@
+{
+    "path": "pages/activity/newcomer-special/index",
+    "pageName": "newComerSpecial",
+    "style": {
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": true
+    }
+}
