@@ -12,6 +12,7 @@ import { pages, subPackages } from './pages.json';
 initPages(pages, subPackages);
 
 export function createApp() {
+    
     const app = createSSRApp(App);
 
     app.use(pinia);
